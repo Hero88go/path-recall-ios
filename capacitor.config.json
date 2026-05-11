@@ -1,0 +1,8 @@
+{
+  "appId": "com.geekmagnetinc.pathrecall",
+  "appName": "Path Recall",
+  "webDir": "www",
+  "ios": {
+    "packageClassList": ["AdMobPlugin", "ICloudSyncPlugin"]
+  }
+}
