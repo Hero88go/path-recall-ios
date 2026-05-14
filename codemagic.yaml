@@ -8,7 +8,7 @@ workflows:
     environment:
       ios_signing:
         provisioning_profiles:
-          - path-recall-profile
+          - path
         certificates:
           - shared-distribution
       vars:
